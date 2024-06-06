@@ -1,0 +1,137 @@
+.navbar {
+    background-color: transparent !important;
+}
+
+.navbar-brand {
+    margin-right: auto;
+    font-size: 24px;
+}
+
+@media (max-width: 768px) {
+    .navbar-expand-lg .navbar-nav {
+        justify-content: center;
+    }
+
+    .navbar-brand {
+        margin-right: 0;
+        margin-left: auto;
+    }
+
+    .navbar-collapse {
+        justify-content: flex-start;
+    }
+}
+.navbar-brand{
+    width:4.222vw;
+    height:3.802vw;
+    margin: 0vw;
+    padding: 0vw;
+}
+#carouselExampleIndicators{
+    position: relative;
+    top: -15.625vw;
+    z-index: -9999;
+}
+
+@media (max-width: 999px){
+    #carouselExampleIndicator{
+        position: relative;
+        top: -13.625vw;
+        z-index: -9999;
+    }
+}
+@media (max-width: 1440px){
+    #carouselExampleIndicator{
+        position: relative;
+        top: -13.625vw;
+        z-index: -9999;
+    }
+}
+@media (max-width: 320px){
+    #carouselExampleIndicator{
+        position: relative;
+        top: -17.625vw;
+        z-index: -9999;
+    }
+}
+@media (max-width: 768px){
+    #carouselExampleIndicator{
+        position: relative;
+        top: -7.22vw;
+        z-index: -9999;
+    }
+}
+@media only screen and (max-width: 991px) {
+    #navbarSupportedContent{
+        background-color: rgb(42, 42, 46);
+    }
+}
+@media only screen and(max-width: 425px){
+    #carouselExampleIndicator{
+        position: relative;
+        top: -13.625vw;
+        z-index: -9999;
+    }
+}
+section {
+    position: relative;
+    top: -9.344vw;
+}
+imgc h6{
+    position: relative;
+    top: -167px;
+}
+img2{
+    display: flex;
+}
+img2 img{
+    width: 200px !important;
+    height: 200px !important;
+}
+.imgin{
+    text-align: center;
+}
+.text1{
+    position: absolute;
+}
+@media(min-width: 992px){
+    .card1{
+        display: flex;
+        gap: 4;
+    }
+}
+@media(min-width: 300px){
+    .card1{
+        display: block;
+    }
+}
+.imgset{
+    height: 20rem;
+}
+.custom-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    padding: 0vh;
+    margin: 0vh;
+}
+.connect{
+    position: relative;
+    bottom: -60vw;
+}
+.black-container {
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+
+}
+.btn-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+footer{
+    position: relative;
+    bottom: -55vw;
+}
