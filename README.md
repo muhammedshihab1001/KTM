@@ -15,7 +15,7 @@ This is a clone of the official KTM bike website, created to showcase responsive
 You can view the live version of this project by following the link below:
 
 [Live Project - KTM Bike Website Clone](https://muhammedshihab1001.github.io/KTM/)  
-*This link points to the live hosted version of the project on GitHub Pages. (Replace it with your actual hosting URL if you're using a different hosting platform.)*
+*This link points to the live hosted version of the project on GitHub Pages.*
 
 ## Installation
 
